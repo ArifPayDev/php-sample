@@ -1,0 +1,5 @@
+{
+    "require": {
+        "arifpay/phpsdk": "^1.1"
+    }
+}
